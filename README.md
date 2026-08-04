@@ -72,5 +72,6 @@ const ezequiel: dev = {
 | [**brifly**](https://github.com/ezanelato/appbrifly_prod)              | Sales team now have an application to watch their results | `TypeScript` |
 | [**Marias**]([https://github.com/ezanelato/appmarias)                  | Safe and elegant web application for womans               | `TypeScript` |
 | [**Go helper**]([https://github.com/ezanelato/Bot_go_helper_relatorio) | Bot working to create reports and functions for Agencies  | `JavaScript` |
+| [**PartnerHub**](https://github.com/ezanelato/partnerhub)              | Manage your partners and leads with more efficient process | `TypeScript` |
 
 ---
