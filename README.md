@@ -7,11 +7,11 @@
   <a href="https://instagram.com/zanelatt_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:ezequiel@appbrifly.com.br">
+  <a href="mailto:ezequiel@agenciago.digital">
     <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://appbrifly.com.br">
-    <img src="https://img.shields.io/badge/appbrifly.com.br-9b59f7?style=flat-square&logo=internet-explorer&logoColor=white" />
+  <a href="https://ezanelato.vercel.app">
+    <img src="https://img.shields.io/badge/ezanelato.vercel.app-9b59f7?style=flat-square&logo=internet-explorer&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ezanelato&style=flat-square&color=9b59f7&label=profile+views" />
 </div>
